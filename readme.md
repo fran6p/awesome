@@ -75,6 +75,23 @@
 				<sup>Import any dataset in seconds, share with anyone with a click, try without signing up</sup>
 			</div>
 		</a>
+		<br>
+		<br>
+		<a href="https://www.gitpod.io/?utm_campaign=sindresorhus&utm_medium=referral&utm_content=awesome&utm_source=github">
+			<div>
+				<img src="https://sindresorhus.com/assets/thanks/gitpod-logo-white-bg.svg" width="220" alt="Gitpod">
+			</div>
+			<b>Dev environments built for the cloud</b>
+			<div>
+				<sub>
+				Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev
+				<br>
+				environments for all your branches. As a result team members can instantly start coding with fresh dev environments
+				<br>
+				for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.
+				</sub>
+			</div>
+		</a>
 	</p>
 	<hr>
 	<br>
@@ -537,7 +554,7 @@
 - [NoSQL Guides](https://github.com/erictleung/awesome-nosql-guides#readme) - Help on using non-relational, distributed, open-source, and horizontally scalable databases.
 - [Contexture](https://github.com/chrislatorres/awesome-contexture#readme) - Abstracts queries/filters and results/aggregations from different backing data stores like ElasticSearch and MongoDB.
 - [Database Tools](https://github.com/mgramin/awesome-db-tools#readme) - Everything that makes working with databases easier.
-- [Grakn](https://github.com/graknlabs/awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
+- [TypeDB](https://github.com/vaticle/typedb-awesome#readme) - Logical database to organize large and complex networks of data as one body of knowledge.
 - [Cassandra](https://github.com/Anant/awesome-cassandra#readme) - Open-source, distributed, wide column store, NoSQL database management system.
 
 ## Media
@@ -555,6 +572,7 @@
 - [FFmpeg](https://github.com/transitive-bullshit/awesome-ffmpeg#readme) - Cross-platform solution to record, convert and stream audio and video.
 - [Icons](https://github.com/notlmn/awesome-icons#readme) - Downloadable SVG/PNG/font icon projects.
 - [Audiovisual](https://github.com/stingalleman/awesome-audiovisual#readme) - Lighting, audio and video in professional environments.
+- [VLC](https://github.com/mfkl/awesome-vlc#readme) - Cross-platform media player software and streaming server.
 
 ## Learn
 
@@ -626,6 +644,7 @@
 - [Social Enterprise](https://github.com/RayBB/awesome-social-enterprise#readme) - Building an organization primarily focused on social impact that is at least partially self-funded.
 - [Engineering Team Management](https://github.com/kdeldycke/awesome-engineering-team-management#readme) - How to transition from software development to engineering management.
 - [Developer-First Products](https://github.com/agamm/awesome-developer-first#readme) - Products that target developers as the user.
+- [Billing](https://github.com/kdeldycke/awesome-billing#readme) - Payments, invoicing, pricing, accounting, marketplace, fraud, and business intelligence.
 
 ## Work
 
@@ -637,6 +656,7 @@
 - [Programming Interviews](https://github.com/DopplerHQ/awesome-interview-questions#readme)
 - [Code Review](https://github.com/joho/awesome-code-review#readme) - Reviewing code.
 - [Creative Technology](https://github.com/j0hnm4r5/awesome-creative-technology#readme) - Businesses & groups that specialize in combining computing, design, art, and user experience.
+- [Internships](https://github.com/lodthe/awesome-internships#readme) - CV writing guides and companies that hire interns.
 
 ## Networking
 
@@ -658,6 +678,7 @@
 - [Waves](https://github.com/msmolyakov/awesome-waves#readme) - Open source blockchain platform and development toolset for Web 3.0 apps and decentralized solutions.
 - [Substrate](https://github.com/substrate-developer-hub/awesome-substrate#readme) - Framework for writing scalable, upgradeable blockchains in Rust.
 - [Golem](https://github.com/golemfactory/awesome-golem#readme) - Open source peer-to-peer marketplace for computing resources.
+- [Stacks](https://github.com/friedger/awesome-stacks-chain#readme) - A smart contract platform secured by Bitcoin.
 
 ## Higher Education
 
@@ -805,6 +826,7 @@
 - [QR Code](https://github.com/aureooms/awesome-qr-code#readme) - A type of matrix barcode that can be used to store and share a small amount of information.
 - [Veganism](https://github.com/sdassow/awesome-veganism#readme) - Making the plant-based lifestyle easy and accessible.
 - [Translations](https://github.com/mbiesiad/awesome-translations#readme) - The transfer of the meaning of a text from one language to another.
+- [Scriptable](https://github.com/dersvenhesse/awesome-scriptable#readme) - An iOS app for automations in JavaScript.
 
 ## Related
 
